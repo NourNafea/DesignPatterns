@@ -1,7 +1,7 @@
-﻿using FactoryPatternPOC;
+﻿using SimpleFactoryPatternPOC;
 
 
-var cardDetails = CreditCardFactory.GetCreditCart( Console.ReadLine()!);
+var cardDetails = CreditCardFactory.GetCreditCart(Console.ReadLine()!);
 
 if(cardDetails != null)
 {

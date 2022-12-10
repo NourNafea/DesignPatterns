@@ -1,4 +1,4 @@
-﻿namespace FactoryPatternPOC.Types;
+﻿namespace SimpleFactoryPatternPOC.Types;
 
 public class Titanium : ICreditCard
 {

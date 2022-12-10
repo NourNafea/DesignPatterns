@@ -1,6 +1,6 @@
-﻿using FactoryPatternPOC.Types;
+﻿using SimpleFactoryPatternPOC.Types;
 
-namespace FactoryPatternPOC;
+namespace SimpleFactoryPatternPOC;
 
 public class CreditCardFactory
 {
