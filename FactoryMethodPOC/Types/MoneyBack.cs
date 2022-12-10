@@ -1,4 +1,4 @@
-﻿namespace SimpleFactoryPatternPOC.Types;
+﻿namespace FactoryMethodPOC.Types;
 
 public class MoneyBack : ICreditCard
 {

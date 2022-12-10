@@ -1,4 +1,4 @@
-﻿namespace SimpleFactoryPatternPOC;
+namespace FactoryMethodPOC;
 
 public interface ICreditCard
 {
