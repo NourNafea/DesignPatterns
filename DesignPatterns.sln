@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactoryPOC", "SimpleF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPOC", "FactoryMethodPOC\FactoryMethodPOC.csproj", "{05B60526-B435-4B97-A8BF-B62E2C33D3CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPOC", "AbstractFactoryPOC\AbstractFactoryPOC.csproj", "{D71F2078-A958-4919-99C1-1069F79D372B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{05B60526-B435-4B97-A8BF-B62E2C33D3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05B60526-B435-4B97-A8BF-B62E2C33D3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05B60526-B435-4B97-A8BF-B62E2C33D3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71F2078-A958-4919-99C1-1069F79D372B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71F2078-A958-4919-99C1-1069F79D372B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71F2078-A958-4919-99C1-1069F79D372B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71F2078-A958-4919-99C1-1069F79D372B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
