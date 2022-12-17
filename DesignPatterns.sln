@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPOC", "Factory
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPOC", "AbstractFactoryPOC\AbstractFactoryPOC.csproj", "{D71F2078-A958-4919-99C1-1069F79D372B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePOC", "FacadePOC\FacadePOC.csproj", "{3292DDB7-99C4-4400-A97A-8FDA49469DB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{D71F2078-A958-4919-99C1-1069F79D372B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D71F2078-A958-4919-99C1-1069F79D372B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D71F2078-A958-4919-99C1-1069F79D372B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3292DDB7-99C4-4400-A97A-8FDA49469DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3292DDB7-99C4-4400-A97A-8FDA49469DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3292DDB7-99C4-4400-A97A-8FDA49469DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3292DDB7-99C4-4400-A97A-8FDA49469DB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
