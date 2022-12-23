@@ -2,7 +2,7 @@
 
 namespace SimpleFactoryPOC;
 
-public class CreditCardFactory
+public static class CreditCardFactory
 {
     public static ICreditCard? GetCreditCart(string cardType)
     {
