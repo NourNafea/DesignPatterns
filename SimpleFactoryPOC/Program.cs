@@ -1,6 +1,5 @@
 ﻿using SimpleFactoryPOC;
 
-
 var cardDetails = CreditCardFactory.GetCreditCart(Console.ReadLine()!);
 
 if(cardDetails != null)
