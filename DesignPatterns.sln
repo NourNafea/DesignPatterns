@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPOC", "Abstr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePOC", "FacadePOC\FacadePOC.csproj", "{3292DDB7-99C4-4400-A97A-8FDA49469DB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPOC", "AdapterPOC\AdapterPOC.csproj", "{8C485B9B-6BD6-4994-B52F-45B8124C12D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{3292DDB7-99C4-4400-A97A-8FDA49469DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3292DDB7-99C4-4400-A97A-8FDA49469DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3292DDB7-99C4-4400-A97A-8FDA49469DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C485B9B-6BD6-4994-B52F-45B8124C12D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C485B9B-6BD6-4994-B52F-45B8124C12D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C485B9B-6BD6-4994-B52F-45B8124C12D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C485B9B-6BD6-4994-B52F-45B8124C12D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
